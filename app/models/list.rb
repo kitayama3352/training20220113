@@ -1,2 +1,2 @@
 class List < ApplicationRecord
-end
+    attachment :image
